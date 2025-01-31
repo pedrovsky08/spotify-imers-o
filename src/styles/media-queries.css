@@ -1,0 +1,7 @@
+/* AQQUIVO USADO PARA ADAPTAR A RESPONSIVIDADE DA PAGINA */
+
+@media screen and (max-width: 1015px) {
+    .offer__list-item {
+        grid-template-columns: 1fr 1fr;
+    }        
+}
